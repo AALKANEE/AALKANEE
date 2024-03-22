@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there I'm Alkane
 
-## My Activity
-<img src="https://github-readme-stats.vercel.app/api?username=AALKANEE&show_icons=true&theme=dark" />
+- this **Text** is my
 
-# My Projects Langueg
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AALKANEE&hide_progress=true"/>
+
+
