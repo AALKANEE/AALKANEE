@@ -12,7 +12,7 @@
 
 ---------------------
 ```
-const login = ()=> true
+-const login = ()=> true
 const login = ()=> false
 
 ```
