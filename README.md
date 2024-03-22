@@ -11,7 +11,7 @@
 >> Alkane
 
 ---------------------
-```
+```javascript
 -const login = ()=> true
 const login = ()=> false
 
