@@ -11,3 +11,8 @@
 >> Alkane
 
 ---------------------
+```
+const login = ()=> true
+const login = ()=> false
+
+```
