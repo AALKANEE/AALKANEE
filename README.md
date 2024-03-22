@@ -11,7 +11,7 @@
 >> Alkane
 
 ---------------------
-```javascript
+```diff
 - const login = ()=> true
 + const login = ()=> false
 
