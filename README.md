@@ -29,7 +29,6 @@
 
 <h2>&nbsp; My stats </h2>
 
-----
 
 <a href="https://github.com/AALKANEE">
   <img src="https://github-readme-stats.vercel.app/api?username=AALKANEE&show_icons=true&theme=radical" />
