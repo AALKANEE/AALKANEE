@@ -6,3 +6,9 @@
 <p align="center">
   Hardware and software, computer engineering student, front-end and back-end
 </p>
+
+
+
+
+
+<h2 align="center">To contact</h2>
