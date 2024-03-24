@@ -12,7 +12,15 @@
 <h2>&nbsp; My skills</h2>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img 
-  src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-javascript-96.png?raw=true" width="36" height="36" alt="Javascript" /></a>
+  src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-javascript-96.png?raw=true" width="36" height="36" 
+    alt="Javascript" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img       
+     src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-html-96.png?raw=true" width="36" height="36" alt="HTML5" /></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-css-96.png?raw=true" width="36" height="36" alt="CSS3" /></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-bootstrap-96.png?raw=true" width="36" height="36" alt="Bootstrap" /></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-tailwindcss-96.png?raw=true" width="36" height="36" alt="Bootstrap" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-react-js-100.png?raw=true" width="36" height="36" alt="React" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
 <br />
