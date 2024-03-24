@@ -10,7 +10,7 @@
 <br />
 
 <h2>&nbsp; My skills</h2>
-<p align="left">
+<p align="right">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img 
   src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-javascript-96.png?raw=true" width="36" height="36" 
     alt="Javascript" /></a>
@@ -20,7 +20,14 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-bootstrap-96.png?raw=true" width="36" height="36" alt="Bootstrap" /></a>
   <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-tailwindcss-96.png?raw=true" width="36" height="36" alt="Bootstrap" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-react-js-100.png?raw=true" width="36" height="36" alt="React" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="MongoDB" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-mongo-db-96.png?raw=true" width="36" height="36" alt="MongoDB" /></a>
+  <a href="https://www.python.com/" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-python-96.png?raw=true" width="36" height="36" alt="Python" /></a>
+  
+  <a href="https://www.nodejs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-node-js-96.png?raw=true" width="34" height="34" alt="NodeJS" /></a>
+  
+  <a href="https://www.expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-express-js-100.png?raw=true" width="34" height="34" alt="WxpressJS" /></a>
+  
+  <a align="right" href="https://www.github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-github-96.png?raw=true" width="36" height="36" alt="GitHUb" /></a>
 </p>
 
 <br />
