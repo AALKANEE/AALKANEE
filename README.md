@@ -14,6 +14,7 @@
 
 <a href="https://github.com/AALKANEE">
   <img src="https://github-readme-stats.vercel.app/api?username=AALKANEE&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AALKANEE&layout=donut" />
 </a>
 
 
