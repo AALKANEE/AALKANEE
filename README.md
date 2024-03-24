@@ -8,7 +8,17 @@
 </p>
 
 <br />
-<h3>&nbsp; My stats </h3>
+
+<h2>&nbsp; My skills</h2>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img 
+  src="https://raw.githubusercontent.com/sabzlearn-ir/sabzlearn-ir/4d2a781931f79c747a132c28eae4ebfbb8eaa7d7/javascript- 
+  colored.svg" width="36" height="36" alt="Javascript" /></a>
+</p>
+
+<br />
+
+<h2>&nbsp; My stats </h2>
 
 ----
 
