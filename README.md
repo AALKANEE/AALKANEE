@@ -14,4 +14,4 @@
 
 <h2 align="center">To contact</h2>
 <a href="https://www.instagram.com/oalkaneo"><img width="50px" height="50px" align="left" src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-instagram-96.png?raw=true" alt="instagram"/></a>
-<a href="https://t.me/rap_11"><img align="left" src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-telegram-96.png?raw=true" alt="telegram"/></a>
+<a href="https://t.me/rap_11"><img width="50px" height="50px" align="left" src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-telegram-96.png?raw=true" alt="telegram"/></a>
