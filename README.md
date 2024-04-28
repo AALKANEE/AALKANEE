@@ -9,7 +9,7 @@
 
 <br />
 
-<h2>&nbsp; My skills</h2>
+<h2>&nbsp; My skills</h2> 
 <p align="left">
   <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-javascript-96.png?raw=true" width="36" height="36" 
     alt="Javascript" /></a>
