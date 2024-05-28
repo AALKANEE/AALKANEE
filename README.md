@@ -4,7 +4,7 @@
 
 <h2 align="center">About me</h2>
 <p align="center"> 
-  Hardware and software, computer engineering student, front-end and back-end
+  Hardware and software, computer engineering student,back-end
 </p>
 
 <br />
