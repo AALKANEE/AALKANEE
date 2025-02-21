@@ -15,10 +15,8 @@
   <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-html-96.png?raw=true" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-css-96.png?raw=true" width="36" height="36" alt="CSS3" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-python-96.png?raw=true" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-docker-96.png?raw=true" width="36" height="36" alt="Docker" /></a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-kubernetes-96.png?raw=true" width="36" height="36" alt="Kubernetes" /></a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-terraform-96.png?raw=true" width="36" height="36" alt="Terraform" /></a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-ansible-96.png?raw=true" width="10" height="10" alt="Ansible" /></a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/Go.png?raw=true" width="50" height="50" alt="Golang" /></a>
+  
 </p>
 
 ---
@@ -39,5 +37,5 @@
 
 ---
 
-🔥 Always Learning | 🚀 Automating Everything | ☁️ Cloud Enthusiast
+🔥 DevBoyOps
 
