@@ -12,8 +12,6 @@
 <h2>&nbsp; 🚀 My Skills</h2>
 <p align="left">
   <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-javascript-96.png?raw=true" width="36" height="36" alt="Javascript" /></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-html-96.png?raw=true" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-css-96.png?raw=true" width="36" height="36" alt="CSS3" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-python-96.png?raw=true" width="36" height="36" alt="Python" /></a>
   <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/Go.png?raw=true" width="50" height="50" alt="Golang" /></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/linux.png?raw=true" width="36" height="36" alt="Linux" /></a>
