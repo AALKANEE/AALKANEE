@@ -4,7 +4,7 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-  👨‍💻 Junior DevOps Engineer | Computer Engineering Student 
+  Security boy | Computer Engineering Student 
 </p>
 
 ---
