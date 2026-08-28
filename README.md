@@ -60,26 +60,9 @@ Foundational cybersecurity exercises focusing on detection and basic incident re
 
 ---
 
-## 📚 Learning Roadmap
-
-- **Phase 1: Network Engineering & Linux Fundamentals (Current)**
-    - Mastering routing and switching concepts (Cisco/Huawei)
-    - Managing and securing Debian-based Linux systems
-    - Implementing infrastructure monitoring solutions
-- **Phase 2: Cybersecurity Fundamentals**
-    - Learning penetration testing methodologies and attack simulation
-    - Implementing detection and incident response solutions
-    - Understanding security frameworks (MITRE ATT&CK, NIST)
-- **Phase 3: Security Automation & DevSecOps**
-    - Integrating security into the software development lifecycle
-    - Developing custom security and monitoring tools with Python/Bash
-
----
-
 ## 🔗 Connect
 
-- **LinkedIn:** [Connect on LinkedIn](YOUR_LINKEDIN_URL)
-- **Email:** [your.email@example.com](mailto:your.email@example.com) (optional)
+- **LinkedIn:** [ALKANE](https://www.linkedin.com/in/alkane/)
 
 ---
 
