@@ -3,37 +3,84 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-  Network Engineer • Debian Linux • Infrastructure Monitoring • Junior Cybersecurity Engineer 
-</p>
-
----
-
-<h2>&nbsp; 🚀 My Skills</h2>
-<p align="left">
-  <a href="" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-javascript-96.png?raw=true" width="36" height="36" alt="Javascript" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-python-96.png?raw=true" width="36" height="36" alt="Python" /></a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/Go.png?raw=true" width="50" height="50" alt="Golang" /></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/AALKANEE/AALKANEE/blob/main/linux.png?raw=true" width="36" height="36" alt="Linux" /></a>
+  Network Engineer • Debian Linux • Infrastructure Monitoring • Junior Cybersecurity Engineer
   
+     I build and document hands-on projects around cybersecurity, enterprise
+     networking, Linux systems, and security automation.
 </p>
 
 ---
 
-<h2>&nbsp; 📊 My Stats</h2>
-<a href="https://github.com/AALKANEE">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AALKANEE&layout=donut" />
-</a>
+## 🎯 Mission
+
+Building networking and security labs to simulate real-world scenarios, implement monitoring and defensive solutions, and document the learning journey to contribute to the community and drive personal growth.
 
 ---
 
-<h2 align="center">📬 Contact Me</h2>
-<a href="https://www.instagram.com/oalkaneo"><img width="50px" height="50px" align="left" src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-instagram-96.png?raw=true" alt="instagram"/></a>
-<a href="https://t.me/alkaane"><img width="50px" height="50px" align="left" src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-telegram-96.png?raw=true" alt="telegram"/></a>
-<a href="https://t.me/alkane_official">
-    <img width="50px" height="50px" align="left" src="https://github.com/AALKANEE/AALKANEE/blob/main/icons8-telegram-96.png?raw=true" alt="telegram"/>
-  </a>
+## 🛡️ Areas of Focus
+
+- **Network Engineering:** Designing, implementing, and troubleshooting enterprise network infrastructures with a focus on security
+- **Linux Systems (Debian):** Administration, hardening, and security of Debian-based Linux environments
+- **Infrastructure Monitoring:** Deploying monitoring solutions to detect anomalies, performance issues, and potential security threats
+- **Cybersecurity (Junior Level):** Building foundational skills in threat detection, incident response, and security best practices
 
 ---
 
-ALKANE 
+## 🧰 Technical Toolkit
 
+| Category           | Technologies                                                                                              |
+| ------------------ | --------------------------------------------------------------------------------------------------------- |
+| **Networking**     | `Cisco IOS` `Huawei VRP` `OSPF` `VLANs` `EVE-NG` `Wireshark`                                              |
+| **Systems**        | `Debian Linux` `Bash Scripting` `Docker` `Systemd`                                                        |
+| **Monitoring**     | `Nagios` `Zabbix` `Syslog` `SNMP` `Grafana`                                                               |
+| **Security**       | `pfSense` `Nmap` `Wireshark` `Metasploit` `MITRE ATT&CK` `Incident Response`                              |
+| **Programming**    | `Python` `Bash` `YAML`                                                                                    |
+
+---
+
+## 🧪 Featured Projects
+
+### 🌐 Enterprise Network Engineering Lab
+Building and configuring enterprise network topologies in EVE-NG with security-focused scenarios.
+- **Key Components:** `EVE-NG` `Cisco IOS` `OSPF` `VLANs` `Wireshark`
+- **Objective:** Implementing enterprise network infrastructures and testing security configurations
+- **Status:** In Development
+
+### 🐧 Debian Linux & Infrastructure Monitoring Lab
+Hands-on scenarios for Debian administration, hardening, and infrastructure monitoring.
+- **Key Components:** `Debian` `Bash` `Nagios` `Zabbix` `Syslog` `Auditd`
+- **Objective:** Managing Linux systems, implementing monitoring solutions, and analyzing system events
+- **Status:** Active
+
+### 🛡️ Junior Cybersecurity Practice Labs
+Foundational cybersecurity exercises focusing on detection and basic incident response.
+- **Key Components:** `Nmap` `Wireshark` `pfSense` `Python`
+- **Objective:** Building core cybersecurity skills through simulated attacks and defensive techniques
+- **Status:** Planning & Early Development
+
+---
+
+## 📚 Learning Roadmap
+
+- **Phase 1: Network Engineering & Linux Fundamentals (Current)**
+    - Mastering routing and switching concepts (Cisco/Huawei)
+    - Managing and securing Debian-based Linux systems
+    - Implementing infrastructure monitoring solutions
+- **Phase 2: Cybersecurity Fundamentals**
+    - Learning penetration testing methodologies and attack simulation
+    - Implementing detection and incident response solutions
+    - Understanding security frameworks (MITRE ATT&CK, NIST)
+- **Phase 3: Security Automation & DevSecOps**
+    - Integrating security into the software development lifecycle
+    - Developing custom security and monitoring tools with Python/Bash
+
+---
+
+## 🔗 Connect
+
+- **LinkedIn:** [Connect on LinkedIn](YOUR_LINKEDIN_URL)
+- **Email:** [your.email@example.com](mailto:your.email@example.com) (optional)
+
+---
+
+*"Security is not a product, but a process." — Bruce Schneier*
